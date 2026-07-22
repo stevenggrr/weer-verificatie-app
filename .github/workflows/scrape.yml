@@ -2,7 +2,7 @@ name: Weer Scraper
 
 on:
   schedule:
-    - cron: '30 19,0,6,12,18 * * *'
+    - cron: '30 20,0,6,12,18 * * *'
   workflow_dispatch:
 
 jobs:
